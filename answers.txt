@@ -1,1 +1,2 @@
-
+What is a remote repository?
+A remote repository is a structure - hosted on an online server for authorized users to access - that stores a collection of files and the history associated with those files.
